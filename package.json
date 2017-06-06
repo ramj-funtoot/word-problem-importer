@@ -1,0 +1,20 @@
+{
+  "name": "word-problem-importer",
+  "version": "0.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "connect-mongo": "^0.8.1",
+    "lodash": "~3.10.1",
+    "mongoose": "~4.0.3",
+    "morgan": "~1.0.0",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  },
+  "private": true
+}
